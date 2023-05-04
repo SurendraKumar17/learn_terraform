@@ -13,6 +13,6 @@ resource "aws_instance" "web" {
   instance_type = "t3.micro"
 
   tags = {
-    Name = "test-centos8"
+    Name = "test"
   }
 }
