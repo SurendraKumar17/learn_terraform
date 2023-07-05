@@ -1,3 +1,5 @@
+//creating instance with aws_security_group
+
 provider "aws" {
   region = "us-east-1"
 }
